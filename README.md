@@ -1,4 +1,104 @@
-Reversi
-1 2
-em
-3 Esta é a página do projeto de jogo de tabuleiro Reversi desenvolvido para a disciplina de Lógica Matemática no Instituto Militar de Engenharia (2012). 4 5 0 trabalho foi desenvolvido pelos alunos: 6 7 * Hallison Paz 8 * Eduardo Rocha 9 * Paulo Althoff 10 11 ### Confira o video no canal, clicando na imagem. 12 13 <a href="https://youtu.be/qJED5SIYoM4" target="_blank"> 14 <img src="https://img.youtube.com/vi/qJED5SIYoM4/maxresdefault.ipg" alt="Vídeo do jogo"> 15 </a>
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Seu Amigão da Vizinhança: Homem-Aranha</title>
+
+<style>
+body{
+    background:#141414;
+    color:white;
+    font-family:Arial, sans-serif;
+    margin:0;
+}
+
+header{
+    background:#e50914;
+    padding:20px;
+    text-align:center;
+}
+
+h1{
+    margin:0;
+}
+
+.container{
+    max-width:900px;
+    margin:auto;
+    padding:20px;
+}
+
+.episodio{
+    background:#222;
+    margin:10px 0;
+    padding:15px;
+    border-radius:8px;
+}
+
+.episodio a{
+    color:white;
+    text-decoration:none;
+    display:block;
+}
+
+.episodio:hover{
+    background:#333;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+<h1>Seu Amigão da Vizinhança: Homem-Aranha (Dublado)</h1>
+</header>
+
+<div class="container">
+
+<h2>1ª Temporada</h2>
+
+<div class="episodio">
+<a href="https://drive.google.com/file/d/1mKYXGilxdrwkyxVkmKAh1pxKFOLD9-k0/view?usp=drivesdk">Episódio 01 - Amazing Fantasy - Assistir</a>
+</div>
+
+<div class="episodio">
+<a href="https://drive.google.com/file/d/1qpvHfy6_bB8SX3Yoiq8zX_sIatviVpfi/view?usp=drivesdk">Episódio 02 - A Sorte de Parker - Assistir</a>
+</div>
+
+<div class="episodio">
+<a href="https://drive.google.com/file/d/1Q2UWGcv-C8BOKqU8vtISXUPqJ1QzSCwx/view?usp=drivesdk">Episódio 03 - Crise na Identidade Secreta - Assistir</a>
+</div>
+
+<div class="episodio">
+<a href="https://drive.google.com/file/d/11bqYLnmz3rgP0sFQAjwiP1mxZB_EZ2s-/view?usp=drivesdk">Episódio 04 - O Grande Momento - Assistir</a>
+</div>
+
+<div class="episodio">
+<a href="https://drive.google.com/file/d/1UfoLKYWmuVNierFkkhvLMWJfr-Ds07aM/view?usp=drivesdk">Episódio 05 - O Unicórnio à Solta! - Assistir</a>
+</div>
+
+<div class="episodio">
+<a href="https://drive.google.com/file/d/1fkAo6PlQO_G4L-36i57IB0GdgDFkjCiG/view?usp=drivesdk">Episódio 06 - Duelo com o Demônio - Assistir</a>
+</div>
+
+<div class="episodio">
+<a href="https://drive.google.com/file/d/1IZ0N7e5HmSkvabE1h5p17aWLm32gGQ2V/view?usp=drivesdk">Episódio 07 - A Ascensão do Escorpião - Assistir</a>
+</div>
+
+<div class="episodio">
+<a href="https://drive.google.com/file/d/1uZpzCwpEyX0IO6H1cEq-X7QoQJr_TPxP/view?usp=drivesdk">Episódio 08 - Uma Teia Embaraçada - Assistir</a>
+</div>
+
+<div class="episodio">
+<a href="https://drive.google.com/file/d/1NRHc9rdrYZUplNlxmso01CUHVpbebyw0/view?usp=drivesdk">Episódio 09 - Herói ou Ameaça - Assistir</a>
+</div>
+
+<div class="episodio">
+<a href="https://drive.google.com/file/d/1fGWtR3inX4YZqZB2d-MxM3rMCybon-Gf/view?usp=drivesdk">Episódio 10 - Se Este For Meu Destino - Assistir</a>
+</div>
+
+</div>
+
+</body>
+</html>
